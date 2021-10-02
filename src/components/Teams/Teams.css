@@ -1,0 +1,55 @@
+.modal-button {
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: fit-content;
+  height: fit-content;
+}
+
+.details-display {
+  width: 300px;
+  height: fit-content;
+  background-color: cornsilk;
+  text-align: center;
+  /* margin: auto; */
+  padding: auto;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.details-display div {
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 200px;
+  height: fit-content;
+  margin-top: 5px;
+}
+
+.image-display {
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+}
+
+.modal-form {
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+}
+
+.modal-form div {
+  width: fit-content;
+  height: fit-content;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.close-button {
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: fit-content;
+  height: fit-content;
+}
